@@ -266,14 +266,14 @@ http://localhost:8080
 <div align="center">
   <i>Screenshots will be added as development progresses.</i>
   <br/><br/>
-  <img src="https://via.placeholder.com/800x450.png?text=ByteX+Dashboard+Preview" alt="Dashboard Preview" width="80%"/>
-  <p><i>Dashboard Interface - Coming Soon</i></p>
+  <img src="https://github.com/janiyax35/----ByteX-Customer-Care-System-Final/blob/885fdd79340e39818a811adc7ff36eb2c4cd337e/assets/01.png" alt="Dashboard Preview" width="80%"/>
+  <p><i>Login Interface - Coming Soon</i></p>
   
-  <img src="https://via.placeholder.com/800x450.png?text=Ticket+Management+System" alt="Ticket System Preview" width="80%"/>
+  <img src="https://github.com/janiyax35/----ByteX-Customer-Care-System-Final/blob/885fdd79340e39818a811adc7ff36eb2c4cd337e/assets/02.png" alt="Ticket System Preview" width="80%"/>
   <p><i>Ticket Management System - Coming Soon</i></p>
   
-  <img src="https://via.placeholder.com/800x450.png?text=Inventory+Control+Module" alt="Inventory Module Preview" width="80%"/>
-  <p><i>Inventory Control Module - Coming Soon</i></p>
+  <img src="https://github.com/janiyax35/----ByteX-Customer-Care-System-Final/blob/885fdd79340e39818a811adc7ff36eb2c4cd337e/assets/03.png" alt="Inventory Module Preview" width="80%"/>
+  <p><i>Profile Management Module - Coming Soon</i></p>
 </div>
 
 ## 💾 System Requirements
